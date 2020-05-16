@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f1b47e53-582d-4d15-8c2e-6d267d79a497" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/PyimageSearch/callbacks/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyimageSearch/callbacks/trainingMonitor.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cifar10_Monitor.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/24924.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/31868.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/33076.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/31868.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/31868.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
