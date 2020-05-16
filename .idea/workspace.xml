@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f1b47e53-582d-4d15-8c2e-6d267d79a497" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/cifar10_lr_decay.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="f1b47e53-582d-4d15-8c2e-6d267d79a497" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -102,6 +99,14 @@
       <option name="presentableId" value="Default" />
       <updated>1581018524835</updated>
     </task>
+    <task id="LOCAL-00001" summary="learning rate scheduler applied on cifar10 dataset.">
+      <created>1589649795068</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1589649795069</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -115,7 +120,15 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="learning rate scheduler applied on cifar10 dataset." />
+    <option name="LAST_COMMIT_MESSAGE" value="learning rate scheduler applied on cifar10 dataset." />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="425" y="27" key="CommitChangelistDialog2" timestamp="1589650273774">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="425" y="27" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1589650273774" />
     <state width="1513" height="223" key="GridCell.Tab.0.bottom" timestamp="1589649691783">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
