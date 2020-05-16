@@ -3,7 +3,7 @@ import argparse
 from keras.datasets import cifar10
 from PyimageSearch.NeuralNetworks.ConvulationalNets import minivggnet
 
-matplotlib.use('Agg')
+# matplotlib.use('Agg')
 import numpy as np
 from sklearn.preprocessing import LabelBinarizer
 from keras.callbacks import LearningRateScheduler
@@ -74,7 +74,7 @@ print(classification_report(test_Y.argmax(axis=1), predictions.argmax(axis=1),
                             target_names=labelNames))
 
 # plot our training loss and accuracy
-plt.style.use('gg')
+plt.style.use('ggplot')
 plt.figure()
 plt.plot(np.arange(0, 40), H.history['loss'], label='train_loss')
 plt.plot(np.arange(0, 40), H.history['val_loss'], label='val_loss')
