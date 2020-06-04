@@ -2,18 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f1b47e53-582d-4d15-8c2e-6d267d79a497" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/visualizer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/preTrainedJackpot.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BestCheckpoint.py" beforeDir="false" afterPath="$PROJECT_DIR$/BestCheckpoint.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lenet_mnist.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lenet_mnist.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PyimageSearch/NeuralNetworks/ConvulationalNets/lenet.py" beforeDir="false" afterPath="$PROJECT_DIR$/Utils/NeuralNetworks/ConvulationalNets/lenet.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PyimageSearch/NeuralNetworks/ConvulationalNets/minivggnet.py" beforeDir="false" afterPath="$PROJECT_DIR$/Utils/NeuralNetworks/ConvulationalNets/minivggnet.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PyimageSearch/callbacks/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Utils/callbacks/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PyimageSearch/callbacks/trainingMonitor.py" beforeDir="false" afterPath="$PROJECT_DIR$/Utils/callbacks/trainingMonitor.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cifar10_Monitor.py" beforeDir="false" afterPath="$PROJECT_DIR$/cifar10_Monitor.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cifar10_lr_decay.py" beforeDir="false" afterPath="$PROJECT_DIR$/cifar10_lr_decay.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/minivggnet_cifar10.py" beforeDir="false" afterPath="$PROJECT_DIR$/minivggnet_cifar10.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/model_checkpointing.py" beforeDir="false" afterPath="$PROJECT_DIR$/model_checkpointing.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -204,5 +194,9 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="467" y="256" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1591257001714" />
+    <state x="815" y="181" width="672" height="678" key="search.everywhere.popup" timestamp="1591258788078">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="815" y="181" width="672" height="678" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1591258788078" />
   </component>
 </project>
