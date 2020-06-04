@@ -4,7 +4,7 @@ from keras import backend as K
 from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import LabelBinarizer
 from keras.optimizers import SGD
-from PyimageSearch.NeuralNetworks.ConvulationalNets import lenet
+from Utils.NeuralNetworks.ConvulationalNets import lenet
 from sklearn.metrics import classification_report
 import numpy as np
 import matplotlib.pyplot as plt

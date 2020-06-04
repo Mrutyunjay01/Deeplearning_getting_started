@@ -1,7 +1,7 @@
 import matplotlib
 import argparse
 from keras.datasets import cifar10
-from PyimageSearch.NeuralNetworks.ConvulationalNets import minivggnet
+from Utils.NeuralNetworks.ConvulationalNets import minivggnet
 
 # matplotlib.use('Agg')
 import numpy as np

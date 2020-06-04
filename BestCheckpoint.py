@@ -5,7 +5,7 @@ from keras.datasets import cifar10
 from sklearn.preprocessing import LabelBinarizer
 from keras.optimizers import SGD
 from keras.callbacks import ModelCheckpoint
-from PyimageSearch.NeuralNetworks.ConvulationalNets.minivggnet import MiniVGGNet
+from Utils.NeuralNetworks.ConvulationalNets.minivggnet import MiniVGGNet
 
 # create argument parser
 ap = argparse.ArgumentParser()

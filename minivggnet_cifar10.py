@@ -3,7 +3,7 @@ import argparse
 from keras.datasets import cifar10
 from sklearn.preprocessing import LabelBinarizer
 from keras.optimizers import SGD
-from PyimageSearch.NeuralNetworks.ConvulationalNets import minivggnet
+from Utils.NeuralNetworks.ConvulationalNets import minivggnet
 from sklearn.metrics import classification_report
 import matplotlib.pyplot as plt
 import numpy as np

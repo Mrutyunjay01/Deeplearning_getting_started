@@ -5,8 +5,8 @@ import argparse
 from keras.optimizers import SGD
 from keras.datasets import cifar10
 from sklearn.preprocessing import LabelBinarizer
-from PyimageSearch.callbacks.trainingMonitor import TrainingMonitor
-from PyimageSearch.NeuralNetworks.ConvulationalNets.minivggnet import MiniVGGNet
+from Utils.callbacks.trainingMonitor import TrainingMonitor
+from Utils.NeuralNetworks.ConvulationalNets.minivggnet import MiniVGGNet
 
 print('[INFO] Process id: {}'.format(os.getpid()))
 # creating the output parser

@@ -5,7 +5,7 @@ from keras.datasets import cifar10
 from sklearn.preprocessing import LabelBinarizer
 from keras.optimizers import SGD
 from keras.callbacks import ModelCheckpoint
-from PyimageSearch.NeuralNetworks.ConvulationalNets.minivggnet import MiniVGGNet
+from Utils.NeuralNetworks.ConvulationalNets.minivggnet import MiniVGGNet
 # construct our argument parser to save our weights into weights directory
 ap = argparse.ArgumentParser()
 ap.add_argument('-w', '--weights', required=True,
